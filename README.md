@@ -16,7 +16,7 @@ This repository contains a single `.pbix` file — **`IPL_Dashboard.pbix`** — 
 
 ## 🖼️ Dashboard Preview
 
-* [Link-to-my-image-here]((https://github.com/SugamSagar-DS458/IPL-Analysis-PowerBI_Dashboard/blob/main/IPL%20Dashboard.png))
+* [Link-to-my-image-here](https://github.com/SugamSagar-DS458/IPL-Analysis-PowerBI_Dashboard/blob/main/IPL%20Dashboard.png)
 
 
 ## ✨ Features
